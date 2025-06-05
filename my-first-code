@@ -1,0 +1,6 @@
+# My first Python file on GitHub
+print("Hello, GitHub!")
+print("This is my first repository, I am learning")
+
+name = input("What's your name? ")
+print(f"Nice to meet you, {name}!")
